@@ -72,7 +72,7 @@ class MainActivity : ComponentActivity() {
                                 .padding(12.dp), contentAlignment = Alignment.Center
                         ) {
                             Text(
-                                text = "Receiver App",
+                                text = "DataStore App",
                                 fontSize = 30.sp,
                                 fontWeight = FontWeight.Bold,
                                 color = Color.White
